@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Dino]("https://github.com/congkxtb98/congkxtb98/blob/master/dino.gif")
+![Dino]("/dino.gif")
 <!--
 **congkxtb98/congkxtb98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
